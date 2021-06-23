@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Ahmed</h1>
 <h3 align="center">A Passionate Full-Stack Developer From Bangladesh</h3>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **ERP**
 
 - 👯 I’m looking to collaborate
 
