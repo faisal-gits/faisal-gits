@@ -42,5 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisali3&show_icons=true&locale=en" alt="faisali3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisali3&" alt="faisali3" /></p>
-<p><a href="#" target="_blank"> <img src="keep_coding.gif" alt="code" width="300" /> </a></p>
+<p><a href="#" target="_blank"> <img src="https://github.com/faisali3/logo/blob/main/keep_coding.gif" alt="code" width="300" /> </a></p>
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
