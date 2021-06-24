@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Web Development**
 - 
 - 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
-- 
+
 - 👯 I’m looking to collaborate **Web Development** 
 
 - 🤝 I’m looking for help **Internships**
