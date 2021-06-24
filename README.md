@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Developer From Bangladesh</h3>
 
 - 🔭 I’m currently working on **Web Development**
-- 
+
 - 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
 
 - 👯 I’m looking to collaborate **Web Development** 
@@ -12,7 +12,7 @@
 - 💬 Ask me about Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1)! I am happy to help.
 
 - 📫 How to reach me **faisalahmed4572@gmail.com**
-- 
+
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
 
 <h3 align="left">Languages and Tools:</h3>
