@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help **Internships**
 
-- 💬 Ask me about Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1)! I am happy to help.
+- 💬 Ask me about Anything [here](https://github.com/faisali3/issues.git)! I am happy to help.
 
 - 📫 How to reach me **faisalahmed4572@gmail.com**
 
