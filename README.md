@@ -42,4 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisali3&show_icons=true&locale=en" alt="faisali3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisali3&" alt="faisali3" /></p>
+<p><a href="#" target="_blank"> <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" alt="code" width="200" /> </a></p>
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
