@@ -15,8 +15,8 @@
 
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 	<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> 
 	<a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
 	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -39,20 +39,22 @@
 </summary>
 <br>
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal-gits&show_icons=true&locale=en" alt="faisal-gits" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal-gits&show_icons=true&locale=en" alt="faisal-gits" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-gits&" alt="faisal-gits" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-gits&" alt="faisal-gits" /></p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=faisal-gits&theme=juicyfresh&no-bg=true" />
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=faisal-gits&theme=juicyfresh&no-bg=true" /></p>
 	
 <!-- <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=faisal-gits&color=brightgreen" alt="watching_count" />
  </p>	 -->
+<h4 align="center">Visitor's count :eyes:</h4>
 
-<p><i>Follow me around the web:</i><br>
+<p align="center"><img src="https://profile-counter.glitch.me/{faisal-gits}/count.svg" alt="faisal-gits :: Visitor's Count" /></p>
+<p align="center"><i>Follow me around the web:</i><br>
 <!-- 	<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
 <a href="https://www.instagram.com/___faisal__ahmed___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=100007391917190" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
-<p><a href="#" target="_blank"> <img src="https://github.com/faisal-gits/logo/blob/main/keep_coding.gif" alt="code" width="300" /> </a></p>
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+<p align="center"><a href="#" target="_blank"> <img src="https://github.com/faisal-gits/logo/blob/main/keep_coding.gif" alt="code" width="300" /> </a></p>
+<p align="center"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"></p>
