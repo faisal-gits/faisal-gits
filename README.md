@@ -38,15 +38,21 @@
   <strong>Github Stats : </strong>
 </summary>
 <br>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisali3&show_icons=true&locale=en" alt="faisali3" /></p>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal-gits&show_icons=true&locale=en" alt="faisal-gits" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisali3&" alt="faisali3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-gits&" alt="faisal-gits" /></p>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=faisal-gits&theme=juicyfresh&no-bg=true" />
 	
+<!-- <p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=faisal-gits&color=brightgreen" alt="watching_count" />
+ </p>	 -->
+
 <p><i>Follow me around the web:</i><br>
 <!-- 	<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
 <a href="https://www.instagram.com/___faisal__ahmed___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=100007391917190" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
-<p><a href="#" target="_blank"> <img src="https://github.com/faisali3/logo/blob/main/keep_coding.gif" alt="code" width="300" /> </a></p>
+<p><a href="#" target="_blank"> <img src="https://github.com/faisal-gits/logo/blob/main/keep_coding.gif" alt="code" width="300" /> </a></p>
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
