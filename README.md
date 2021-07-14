@@ -30,6 +30,7 @@
 	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 	<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 	<a href="https://ubuntu.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu" width="40" height="40"/> </a> 
+	<a href="https://atom.io" target="_blank"> <img src="https://github.com/faisal-gits/logo/blob/16460af4efab9e8579ade5d316b0962cd6d7344b/atom-editor.png" alt="atom" width="40" height="40"/> </a> 
 </p>
 
 <details open="">
