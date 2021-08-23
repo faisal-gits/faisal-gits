@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate **Web Development** 
 
-- 🤝 I’m looking for help **Internships**
+<!-- - 🤝 I’m looking for help **Internships** -->
 
 - 💬 Ask me about Anything [here](https://github.com/faisali3/issues/issues/new)! I am happy to help.
 
