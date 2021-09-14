@@ -45,7 +45,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-gits&" alt="faisal-gits" /></p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=faisal-gits&theme=juicyfresh&no-bg=true" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=faisal4572&theme=tokyonight" /></p>	
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=faisal4572&theme=tokyonight" /></p>	 -->
 <!-- <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=faisal-gits&color=brightgreen" alt="watching_count" />
  </p>	 -->
