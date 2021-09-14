@@ -11,7 +11,8 @@
 
 - 💬 Ask me about Anything [here](https://github.com/faisali3/issues/issues/new)! I am happy to help.
 
-- 📫 How to reach me **faisalahmed4572@gmail.com**
+<!-- - 📫 How to reach me **faisalahmed4572@gmail.com** -->
+- 📫 How to reach me  **[faisal.i3intelligence.com](https://faisal.i3intelligence.com/)**
 
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
 
@@ -52,10 +53,16 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{faisal-gits}/count.svg" alt="faisal-gits :: Visitor's Count" /></p>
-<p align="center"><i>Follow me around the web:</i><br>
-<!-- 	<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
-<a href="https://www.instagram.com/___faisal__ahmed___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/profile.php?id=100007391917190" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+	
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/fai-sal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fai-sal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faisal-ahmed-26602b1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal-ahmed-26602b1b8" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16905602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16905602" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100007391917190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100007391917190" height="30" width="40" /></a>
+<a href="https://instagram.com/___faisal__ahmed___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___faisal__ahmed___" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/faisalmwsbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faisalmwsbd" height="30" width="40" /></a>
 </p>
+	
 <p align="center"><a href="#" target="_blank"> <img src="https://github.com/faisal-gits/logo/blob/main/keep_coding.gif" alt="code" width="300" /> </a></p>
 <p align="center"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"></p>
