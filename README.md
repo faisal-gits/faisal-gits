@@ -12,7 +12,7 @@
 - 💬 Ask me about Anything [here](https://github.com/faisali3/issues/issues/new)! I am happy to help.
 
 <!-- - 📫 How to reach me **faisalahmed4572@gmail.com** -->
-- 📫 How to reach me  **[faisal.i3intelligence.com](https://faisal.i3intelligence.com/)**
+- 📫 How to reach me  **[faisalahmed4572@gmail.com](faisalahmed4572@gmail.com)**
 
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
 
