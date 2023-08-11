@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faisal Ahmed</h1>
 <h3 align="center">A Passionate Full-Stack Developer From Bangladesh</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
-
-- 👯 I’m looking to collaborate **Web Development** 
+- 👯 I’m looking to collaborate **Software Development** 
 
 <!-- - 🤝 I’m looking for help **Internships** -->
 
