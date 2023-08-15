@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal Ahmed</h1>
-<h3 align="center">Operational Chief & Founder At itGuide</h3>
+<h3 align="center">A Passionate Full-Stack Developer From Bangladesh</h3>
 
 - 🔭 I’m currently working on **Software Development**
 
